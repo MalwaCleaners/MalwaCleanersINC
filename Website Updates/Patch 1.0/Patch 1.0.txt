@@ -1,0 +1,72 @@
+(Pricing)
+
+
+
+
+
+  <section id="pricing">
+    <div class="container py-5">
+
+      <div class="section-title mb-5 text-center">
+        <p class="mb-2 fs-4 text-capitalize">Pricing Plans</p>
+        <h3>Our Subscription</h3>
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-4">
+          <div class="py-5 plan-post d-flex flex-column justify-content-between text-center border rounded-4 text-center my-4">
+            <div class="plan-top">
+              <p class="fs-4 text-capitalize text-primary mb-0">Basic</p>    
+              <h2 class="d-inline mb-5">$200</h2><span class="fs-4">/month</span>
+              <div class="price-option mt-3">
+                <p><span class="price-tick">✓</span> Quisque rhoncus</p>
+                <p><span class="price-tick">✓</span> Lorem ipsum dolor</p>
+                <p><span class="price-tick">✓</span> Vivamus velit mir</p>
+                <p><span class="price-tick">✓</span> Elit mir ivamus</p>
+                <p><span class="price-tick">✓</span> Ipsum dolor</p>
+              </div>
+            </div>
+            <a href="#" class="btn btn-outline mx-auto mt-5">Subscribe</a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="py-5 plan-post d-flex flex-column justify-content-between text-center border rounded-4 text-center">
+            <div class="plan-top">
+              <p class="fs-4 text-capitalize text-primary mb-0">Premium</p>    
+              <h2 class="d-inline mb-5">$300</h2><span class="fs-4">/month</span>
+              <div class="price-option mt-3">
+                <p><span class="price-tick">✓</span> Quisque rhoncus</p>
+                <p><span class="price-tick">✓</span> Lorem ipsum dolor</p>
+                <p><span class="price-tick">✓</span> Vivamus velit mir</p>
+                <p><span class="price-tick">✓</span> Elit mir ivamus</p>
+                <p><span class="price-tick">✓</span> Velit mir</p>
+                <p><span class="price-tick">✓</span> Quisque rhoncus</p>
+                <p><span class="price-tick">✓</span> Rhoncus ivamus</p>
+              </div>
+            </div>  
+            <a href="#" class="btn btn-primary mx-auto mt-5">Subscribe</a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="py-5 plan-post d-flex flex-column justify-content-between text-center border rounded-4 text-center my-4">
+            <div class="plan-top">
+              <p class="fs-4 text-capitalize text-primary mb-0">Ultimate</p>    
+              <h2 class="d-inline mb-5">$1600</h2><span class="fs-4">/month</span>
+              <div class="price-option mt-3">
+                <p><span class="price-tick">✓</span> Quisque rhoncus</p>
+                <p><span class="price-tick">✓</span> Lorem ipsum dolor</p>
+                <p><span class="price-tick">✓</span> Vivamus velit mir</p>
+                <p><span class="price-tick">✓</span> Elit mir ivamus</p>
+                <p><span class="price-tick">✓</span> Ipsum dolor</p>
+              </div>
+            </div>  
+            <a href="#" class="btn btn-outline mx-auto mt-5">Subscribe</a>
+          </div>
+        </div>
+        
+      </div>
+
+    </div>
+  </section>
+
